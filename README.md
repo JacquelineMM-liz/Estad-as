@@ -1,2 +1,2 @@
-# Estad-as
+# Estadias
 Cosas de estadías
